@@ -1,0 +1,7 @@
+# Factions
+
+An overview of the organized groups active in our story. Open a sub-file on the left
+for details on each one.
+
+The two files below, Hunters and Kaiju, are examples — replace them with your own
+factions, and add as many as you like.

@@ -1,0 +1,11 @@
+# Kaiju Subjects
+![Containment photo on file, subject unidentified](photo.jpg)
+
+**Status:** Classified
+**Territory:** Varies by individual
+
+Not every kaiju is hostile, and not every kaiju is aware of what it is. This file tracks
+subjects relevant to our story rather than the wider Kaiju Paradise cast.
+
+Delete this placeholder and add one file per subject if you want individual dossiers,
+or keep a single running list here — whichever is easier for your group.

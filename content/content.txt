@@ -1,0 +1,17 @@
+# Welcome to the Archive
+
+This is the shared record for our Kaiju Paradise universe. Every case file here is canon
+for our roleplay unless a Game Master says otherwise.
+
+Browse the index on the left. Folders are categories. Any folder with a document inside it
+will open when you click it. Sub-folders become nested sub-categories automatically —
+you never need to touch this website itself, just add files to the repository.
+
+**How to add a new file:**
+- Create a folder for your topic (e.g. `content/factions/new-faction`)
+- Put a `content.txt` inside it
+- Start the file with a line like `# Faction Name` to set its title
+- Push to GitHub — the index rebuilds itself within a minute
+
+Everything else is just formatting. Use `#` and `##` for headings, blank lines for new
+paragraphs, `-` for lists, and `**word**` or `*word*` for emphasis.

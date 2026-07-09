@@ -1,0 +1,16 @@
+# The Hunters
+> A loose coalition tracking kaiju activity before it reaches the city
+
+**Status:** Active
+**Territory:** Coastal district, formerly the old harbor
+
+A loose coalition formed after the first breach, dedicated to tracking and containing
+kaiju activity before it reaches populated areas. They are not government-sanctioned,
+which puts them at constant odds with official containment teams.
+
+**Notable members**
+- Field lead, name withheld pending player claim
+- A retired containment officer who left the program under unclear circumstances
+- Their informant inside the city council is ||Councilwoman Reyes||, unconfirmed in-character until someone finds out
+
+Replace this text with your own faction lore. This file is only here to show the format.

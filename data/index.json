@@ -1,0 +1,62 @@
+{
+  "name": "Home",
+  "title": "Welcome to the Archive",
+  "path": "",
+  "hasContent": true,
+  "content": "This is the shared record for our Kaiju Paradise universe. Every case file here is canon\nfor our roleplay unless a Game Master says otherwise.\n\nBrowse the index on the left. Folders are categories. Any folder with a document inside it\nwill open when you click it. Sub-folders become nested sub-categories automatically —\nyou never need to touch this website itself, just add files to the repository.\n\n**How to add a new file:**\n- Create a folder for your topic (e.g. `content/factions/new-faction`)\n- Put a `content.txt` inside it\n- Start the file with a line like `# Faction Name` to set its title\n- Push to GitHub — the index rebuilds itself within a minute\n\nEverything else is just formatting. Use `#` and `##` for headings, blank lines for new\nparagraphs, `-` for lists, and `**word**` or `*word*` for emphasis.\n",
+  "tagline": null,
+  "image": null,
+  "children": [
+    {
+      "name": "characters",
+      "title": "Characters",
+      "path": "characters",
+      "hasContent": true,
+      "content": "Player and NPC dossiers go here. Make one sub-folder per character, each with its own\n`content.txt`, so everyone gets their own page in the index.\n",
+      "tagline": null,
+      "image": null,
+      "children": []
+    },
+    {
+      "name": "factions",
+      "title": "Factions",
+      "path": "factions",
+      "hasContent": true,
+      "content": "An overview of the organized groups active in our story. Open a sub-file on the left\nfor details on each one.\n\nThe two files below, Hunters and Kaiju, are examples — replace them with your own\nfactions, and add as many as you like.\n",
+      "tagline": null,
+      "image": null,
+      "children": [
+        {
+          "name": "hunters",
+          "title": "The Hunters",
+          "path": "factions/hunters",
+          "hasContent": true,
+          "content": "**Status:** Active\n**Territory:** Coastal district, formerly the old harbor\n\nA loose coalition formed after the first breach, dedicated to tracking and containing\nkaiju activity before it reaches populated areas. They are not government-sanctioned,\nwhich puts them at constant odds with official containment teams.\n\n**Notable members**\n- Field lead, name withheld pending player claim\n- A retired containment officer who left the program under unclear circumstances\n- Their informant inside the city council is ||Councilwoman Reyes||, unconfirmed in-character until someone finds out\n\nReplace this text with your own faction lore. This file is only here to show the format.\n",
+          "tagline": "A loose coalition tracking kaiju activity before it reaches the city",
+          "image": "content/factions/hunters/cover.jpg",
+          "children": []
+        },
+        {
+          "name": "kaiju",
+          "title": "Kaiju Subjects",
+          "path": "factions/kaiju",
+          "hasContent": true,
+          "content": "**Status:** Classified\n**Territory:** Varies by individual\n\nNot every kaiju is hostile, and not every kaiju is aware of what it is. This file tracks\nsubjects relevant to our story rather than the wider Kaiju Paradise cast.\n\nDelete this placeholder and add one file per subject if you want individual dossiers,\nor keep a single running list here — whichever is easier for your group.\n",
+          "tagline": null,
+          "image": "content/factions/kaiju/photo.jpg",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "locations",
+      "title": "Locations",
+      "path": "locations",
+      "hasContent": true,
+      "content": "Maps, districts, and set-pieces for the story. Add one sub-folder per location.\n",
+      "tagline": null,
+      "image": null,
+      "children": []
+    }
+  ]
+}

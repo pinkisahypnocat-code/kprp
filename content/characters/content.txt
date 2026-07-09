@@ -1,0 +1,4 @@
+# Персонал
+
+Player and NPC dossiers go here. Make one sub-folder per character, each with its own
+`content.txt`, so everyone gets their own page in the index.

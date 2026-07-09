@@ -1,0 +1,3 @@
+# Locations
+
+Maps, districts, and set-pieces for the story. Add one sub-folder per location.
